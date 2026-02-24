@@ -33,6 +33,8 @@ Este repositório contém os materiais do curso de Introdução ao Quarkus da Ad
   - Serviço de tema com suporte a modo escuro
   - Estilização com Tailwind CSS
 
+- **aula-5/** - Inicío do projeto final feito na Aula 5
+
 ## 🚀 Como Começar
 
 Cada diretório `aula-*` contém seu próprio README com instruções específicas para aquela aula.
