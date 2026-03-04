@@ -7,3 +7,4 @@ Projeto de referência para a realização do projeto final.
 * quarkus-rest-jackson
 * quarkus-hibernate-orm-panache
 * quarkus-jdbc-mysql
+* quarkus-smallrye-health
